@@ -1,0 +1,19 @@
+#number{
+    font-size: 20em;
+    display: flex;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#container{
+    display: block;
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 2em;
+    color: azure;
+    background-color: rgb(177, 117, 226);
+    cursor: pointer;
+    border-radius: 15px;
+}
